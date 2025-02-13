@@ -1,3 +1,3 @@
-Name: Cathylene Fate Dela Cruz
-Course: BSIT
-Interests in programming: Game Development
+Name = "Cathylene Fate Dela cruz"
+Course = "BSIT"
+Interests_in_programming = "Game development"
